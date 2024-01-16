@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*.pyc
+output/
+data
+cache/
+logs/
+tb_logs/
+resnet101.pth
+tb_logs_backup/
+npy_files/
+glove_emb/

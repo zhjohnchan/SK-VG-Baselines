@@ -1,0 +1,12 @@
+/data/*
+!/data/README.md
+/experiments/*.txt
+/output/*
+/cache/*
+.ipynb_checkpoints
+*.pyc
+.idea
+/results/*
+AC_loss_log
+PG_loss_log
+result
